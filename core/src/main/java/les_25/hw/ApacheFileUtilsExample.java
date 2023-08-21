@@ -7,8 +7,8 @@ import org.apache.commons.io.FileUtils;
 
 public class ApacheFileUtilsExample {
 
-    private static final String FILE_PATH = "C:\\Users\\Dell\\IdeaProjects\\mvn_test\\core\\src\\main\\java\\org\\example\\numb_song";
-    private static final String FILE_PATH_TO_CREATE = "C:\\Users\\Dell\\IdeaProjects\\mvn_test\\core\\src\\main\\java\\org\\example\\create_txt";
+    private static final String FILE_PATH = "core/src/main/java/org/example/numb_song";
+    private static final String FILE_PATH_TO_CREATE = "core/src/main/java/org/example/create_txt";
 
     public static void main(String[] args) throws IOException {
         File file = new File(FILE_PATH);

@@ -9,7 +9,7 @@ import org.apache.poi.xwpf.usermodel.XWPFParagraph;
 import org.apache.poi.xwpf.usermodel.XWPFRun;
 
 public class MSWorFileCreationExample {
-    private static final String FILE_PATH = "C:\\Users\\Dell\\IdeaProjects\\mvn_test\\core\\src\\main\\java\\org\\example\\create_txt";
+    private static final String FILE_PATH = "core/src/main/java/org/example/create_txt";
 
     public static void main(String[] args) {
         XWPFDocument document = new XWPFDocument();
