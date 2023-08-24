@@ -1,0 +1,18 @@
+{
+  "name": "Max",
+  "surname": "Rad",
+  "numberGroup": 435,
+  "address": {
+    "city" : "some_address3",
+    "street": "some_street3",
+    "houseNum": "some_houseNum3",
+    "flatNum": "some_flatNum3"
+  },
+  "contactInfo": {
+    "phoneNumber": "some_phoneNumber3",
+    "email": "some_email3"
+  },
+  "favoriteSubjects": [
+    "Math"
+  ]
+}

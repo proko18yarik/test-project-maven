@@ -1,0 +1,19 @@
+{
+  "name": "Marta",
+  "surname": "Johnson",
+  "numberGroup": 231,
+  "address": {
+    "city" : "some_address2",
+    "street": "some_street2",
+    "houseNum": "some_houseNum2",
+    "flatNum": "some_flatNum2"
+  },
+  "contactInfo": {
+    "phoneNumber": "some_phoneNumber2",
+    "email": "some_email2"
+  },
+  "favoriteSubjects": [
+    "Physic",
+    "Sport"
+  ]
+}

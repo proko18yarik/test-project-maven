@@ -1,4 +1,4 @@
-package org.example;
+package les_25.hw;
 
 import java.io.File;
 import java.io.IOException;

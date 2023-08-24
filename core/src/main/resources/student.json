@@ -1,0 +1,19 @@
+{
+"name": "John",
+  "surname": "Tress",
+  "numberGroup": 121,
+  "address": {
+    "city" : "some_address",
+    "street": "some_street",
+    "houseNum": "some_houseNum",
+    "flatNum": "some_flatNum"
+  },
+  "contactInfo": {
+    "phoneNumber": "some_phoneNumber",
+    "email": "some_email"
+  },
+  "favoriteSubjects": [
+    "Math",
+    "Music"
+  ]
+}
